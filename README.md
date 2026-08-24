@@ -3,6 +3,8 @@
 ### Integrated Platform for Crowdsourced Ocean Hazard Reporting & Social Media Analytics  
 **SIH 2025 | Ministry of Earth Sciences (INCOIS)**
 
+### 🔗 Live Demo: [https://sandhiya-s86.github.io/varuna-oceanix/](https://sandhiya-s86.github.io/varuna-oceanix/)
+
 ---
 
 ## 🚀 Overview
